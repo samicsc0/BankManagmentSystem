@@ -1,4 +1,4 @@
-# BankManagmentSystem
+# Bank Managment System
 This is a simple bank management system console program with singly linked list data structure. 
 # Tools Used
 * Java 
